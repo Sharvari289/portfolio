@@ -9802,6 +9802,5 @@ textarea.form-control {
   background-size: contain; /* Ensure the image scales properly */
   background-repeat: no-repeat;
   background-position: center;
-  width: 300px; /* Set desired width */
-  height: 300px; /* Set desired height */
+  height: 200px; /* Set desired height */
 }
