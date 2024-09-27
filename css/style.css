@@ -8875,6 +8875,14 @@ padding: 10rem 0;
       .services-1:hover h3:after {
         background: #000000; }
 
+.services-1:hover skill-box-2 {
+color: black
+}
+.services-1:hover project-description {
+color: black
+}
+
+
 .progress-wrap {
   width: 100%;
   margin-bottom: 30px; }
