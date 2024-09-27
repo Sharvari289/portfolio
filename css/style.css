@@ -8883,6 +8883,13 @@ padding: 10rem 0;
   color: black !important;
 }
 
+.services-1:hover .more-content {
+  color: black !important;
+}
+.services-1:hover .read-more-link {
+  color: black !important;
+}
+
 .progress-wrap {
   width: 100%;
   margin-bottom: 30px; }
